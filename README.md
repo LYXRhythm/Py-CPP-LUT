@@ -24,7 +24,8 @@ or
 python ./test/py_lut_inference_test.py
 ```
 
-The origin image: ![origin_image](./test/bird.png)
+The origin image: 
+![origin_image](./test/bird.png)
 
-The applyed lut image
+The applyed lut image: 
 ![lut_image](./result.jpg)
