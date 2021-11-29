@@ -13,9 +13,9 @@
 mkdir build
 cmake ..
 add the generated .so file to the path where python can find it.
-
+```
 or
-
+```
 ./make.sh
 ```
 
